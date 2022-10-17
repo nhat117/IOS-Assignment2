@@ -1,7 +1,9 @@
 # IOS-Assignment2
 ```
 RMIT University
-Bui Minh Nhat - s3878174
+Bui Minh Nhat 
+s3878174
+Lecturer: Tom Huynh
 ```
 
 Tomtactoe :
